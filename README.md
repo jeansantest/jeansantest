@@ -12,7 +12,7 @@
 
  
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
-- 🔧 &nbsp; Visual Studio code | Git
+- 🔧 &nbsp; Visual Studio Code | Git
 - 🖥 &nbsp; Illustrator | Photoshop
 
 <br>
