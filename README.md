@@ -11,7 +11,7 @@
 <h3>🛠 Tech Stack</h3>
 
  
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | React | Redux | Jest | RTL
 - 🔧 &nbsp; Visual Studio Code | Git
 - 🖥 &nbsp; Illustrator | Photoshop
 
