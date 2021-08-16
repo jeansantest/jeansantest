@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning React.
+- 🔭 &nbsp; I’m currently learning MySQL.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying web development at Trybe.
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
