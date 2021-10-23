@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning MySQL.
+- 🔭 &nbsp; I’m currently learning more about Express.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying web development at Trybe.
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
@@ -11,7 +11,7 @@
 <h3>🛠 Tech Stack</h3>
 
  
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | React | Redux | Jest | RTL | .NET C#
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | React | Redux | Jest | RTL | .NET C# | NodeJS | MongoDB | MySQL | Express
 - 🔧 &nbsp; Visual Studio Code | Git | Visual Studio 2019
 - 🖥 &nbsp; Illustrator | Photoshop
 
